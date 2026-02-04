@@ -1,0 +1,8 @@
+{
+  "name": "ArcticFlow AI HVAC",
+  "description": "Professional AI-powered HVAC service with integrated voice calling and automated booking dashboard.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
